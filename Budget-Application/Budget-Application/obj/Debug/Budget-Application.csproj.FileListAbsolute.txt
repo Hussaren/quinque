@@ -1,0 +1,8 @@
+C:\Users\alle2\source\repos\Budget-Application\Budget-Application\obj\Debug\Budget_Application.Properties.Resources.resources
+C:\Users\alle2\source\repos\Budget-Application\Budget-Application\obj\Debug\Budget-Application.csproj.GenerateResource.Cache
+C:\Users\alle2\source\repos\Budget-Application\Budget-Application\obj\Debug\Budget-Application.csproj.CoreCompileInputs.cache
+C:\Users\alle2\source\repos\Budget-Application\Budget-Application\bin\Debug\Budget-Application.exe.config
+C:\Users\alle2\source\repos\Budget-Application\Budget-Application\bin\Debug\Budget-Application.exe
+C:\Users\alle2\source\repos\Budget-Application\Budget-Application\bin\Debug\Budget-Application.pdb
+C:\Users\alle2\source\repos\Budget-Application\Budget-Application\obj\Debug\Budget-Application.exe
+C:\Users\alle2\source\repos\Budget-Application\Budget-Application\obj\Debug\Budget-Application.pdb
